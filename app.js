@@ -6,7 +6,7 @@
 require('./mongoose-db');
 require('./typeorm-db')
 
-// test setup
+// test patch 1
 
 var st = require('st');
 var crypto = require('crypto');
